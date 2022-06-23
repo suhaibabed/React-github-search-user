@@ -1,0 +1,37 @@
+export default {
+  login: "sohibabed",
+  id: 42133389,
+  node_id: "MDQ6VXNlcjQyMTMzMzg5",
+  avatar_url:
+    "https://avatars3.githubusercontent.com/u/41820544?s=400&u=34f2c1cec506b670f57803e96365f3902ee93685&v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/suhaibabed",
+  html_url: "https://github.com/suhaibabed",
+  followers_url: "https://github.com/suhaibabed?tab=followers",
+  following_url: "https://github.com/suhaibabed?tab=following",
+  gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+  subscriptions_url: "https://api.github.com/users/suhaibabed/subscriptions",
+  organizations_url: "https://api.github.com/users/suhaibabed/orgs",
+  repos_url: "https://api.github.com/users/suhaibabed/repos",
+  events_url: "https://api.github.com/users/suhaibabed/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/suhaibabed/received_events",
+  type: "User",
+  site_admin: false,
+  name: "sohib abed",
+  company: "freelancer",
+
+  location: "Palestine",
+  email: null,
+  hireable: null,
+  bio: "Software and front end eng",
+  twitter_username: "sohibabed",
+  public_repos: 33,
+  public_gists: 0,
+  followers: 1495,
+  following: 0,
+  created_at: "2018-08-06T06:48:23Z",
+  updated_at: "2020-07-08T05:01:32Z",
+};
